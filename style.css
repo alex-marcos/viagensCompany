@@ -1,0 +1,105 @@
+/* Css Header */
+
+header {
+	background: url(./assets/6016317.jpg);
+}
+
+.logo {
+	height: 4%;
+	padding: 3em 2em;
+}
+
+.botao1 {
+	position: relative;
+	left: 70%;
+	bottom: 50px;
+	background: white;
+	border-radius: 25px;
+	border: none;
+	padding: 15px;
+	width: 10%;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif
+}
+
+.botao1:hover {
+	background: #00aafa;
+	transition: 00.6s;
+}
+
+.botao1:active {
+	background: #fba883;
+	transition: 00.6s;
+}
+
+.nomeempresa {
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	margin: 0 0 1em;
+}
+
+.textoprincipal {
+	display: inline-block;
+}
+
+.trechoprincipal {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2em;
+	font-weight: bolder;
+	padding: 1em 2em;
+	width: 40%;
+}
+
+.textoprincipal p {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 4em 0 ;
+	width: 40%;
+	line-height: 1.5em;
+	font-weight: bold;
+
+}
+
+.botao2 {
+	position: relative;
+	left: 6em;
+	margin: 2em 3em;
+	size: 5em;
+	padding: 15px;
+	width: 15%;
+	padding: 15px 0;
+	background: #FE51BF;
+	color: white;
+	border: none;
+	border-radius: 25px;
+	font-family:'Open Sans', sans-serif; ;
+	font-size: 15px;
+}
+
+.botao2:hover {
+	background: blueviolet;
+	transition: 00.6s;
+}
+
+.botao2:active {
+	background: skyblue;
+	transition: 00.6s;
+}
+
+#mockups {
+	height: 60%;
+	padding: 1em  8em 3em 1em;
+	width: 40%;
+	float: right;
+}
+
+/* Css da para dispositivo mobile */
+
+@media screen and (max-widht: 480px) {
+
+	.logo {
+
+	}
+
+}
