@@ -28,7 +28,7 @@ header {
 }
 
 .botao1:active {
-	background: #fba883;
+	background: #FE51BF;
 	transition: 00.6s;
 }
 
@@ -96,10 +96,55 @@ header {
 
 /* Css da para dispositivo mobile */
 
-@media screen and (max-widht: 480px) {
+@media screen and (max-width: 480px) {
+
+
 
 	.logo {
+		height: 2em;
+		padding: 3 auto;
 
 	}
 
+	.botao1 {
+		width: auto;
+		position: relative;
+		left: 0%;
+		top: 0%;
+	}
+
+	.botao1:active {
+		background: #00aafa;
+		transition: 00.6s;
+	}
+
+	.nomeempresa {
+		font-size: 2em;
+		margin: 1em 0 2em;
+	}
+
+	#mockups {
+		
+		width: auto;
+		height: 50%;
+		padding: 0 1em 0em;
+
+	}
+
+	.trechoprincipal {
+		text-align: center;
+		width: auto;
+		padding: 2em 2em;
+	}
+
+	.textoprincipal p{
+		text-align: center;
+		margin: 0 16%;
+		width: 70%;
+	}
+
+	.botao2 {
+		width: 35%;
+		margin: 1em 2em;
+	}
 }
