@@ -94,6 +94,16 @@ header {
 	float: right;
 }
 
+/* CSS do footer */
+
+footer {
+	background-color: darkcyan;
+}
+
+#logofooter {
+	height: 4%;
+}
+
 /* Css da para dispositivo mobile */
 
 @media screen and (max-width: 480px) {
