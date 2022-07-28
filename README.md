@@ -4,7 +4,7 @@ Esse é um projeto que busquei no Frontend Mentor de nível Junior em HTML e CSS
 Mudei a tematica do site de criação de companhias para uma companhia de viagens a fins diversos, algumas imagens são as mesmas fornecidas pelo site, entretanto a imagem 
 do header não estava inclusa no meu download e tive que improvisar com outra.
 
-## The challenge
+## The challenge (Solicitado pelo proprio site Frontend Mentor.)
 
 Your challenge is to build out this landing page and get it looking as close to the design as possible.
 
