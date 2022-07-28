@@ -40,26 +40,30 @@ header {
 	margin: 0 0 1em;
 }
 
-.textoprincipal {
-	display: inline-block;
+
+.container-a {
+	display: flex;
+	align-items: center;
 }
+
 
 .trechoprincipal {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 2em;
 	font-weight: bolder;
 	padding: 1em 2em;
-	width: 40%;
+	width: auto;
 }
 
-.textoprincipal p {
+#conteudoheader p {
 	font-family: 'Open Sans', sans-serif;
 	margin: 0 4em 0 ;
-	width: 40%;
+	width: auto;
 	line-height: 1.5em;
 	font-weight: bold;
 
 }
+
 
 .botao2 {
 	position: relative;
@@ -67,7 +71,7 @@ header {
 	margin: 2em 3em;
 	size: 5em;
 	padding: 15px;
-	width: 15%;
+	width: 20%;
 	padding: 15px 0;
 	background: #FE51BF;
 	color: white;
@@ -91,17 +95,200 @@ header {
 	height: 60%;
 	padding: 1em  8em 3em 1em;
 	width: 40%;
-	float: right;
+	
+}
+
+/* CSS do Main */
+
+main {
+
+}
+
+.meio {
+	margin: 3em;
+}
+
+.imagemmain {
+	height: 23em;
+}
+.container-c {
+	display: flex;
+	align-items: center;
+	padding: 5em;
+    transition: 1s;
+	border-radius: 1em;
+    margin: 13em;
+    align-items: center;
+	opacity: 0.7;
+	
+}
+
+.container-c:hover {
+	box-shadow:0px 0px 80px #cccccc;
+	opacity: 1;
+}
+
+.titulomain {
+	font-size: 3em;
+	width: 50%;
+	padding: 1em;
+	font-family: 'Open Sans', sans-serif;
+	color: #00252e;
+	font-weight: bold;
+
+
+}
+
+.textomain {
+	width: 50%;
+	padding: 1em;
+	font-family: 'Open Sans', sans-serif;
+	color: #00252e;
+	line-height: 1.5em;
+}
+
+.textolazer {
+	position: relative;
+	left: 10%;
+}
+
+/* CSS do conteudo entre main e footer*/
+
+.conteudomeio {
+	position: relative;
+	left: 30%;
+	bottom: -12%;
+	width: 20%;
+	text-align: center;
+	background-color: #FFFFFF;
+	width: 74%;
+	padding: ;
+
+}
+
+.conteudomeio h5 {
+	font-family: 'Open Sans', sans-serif;
+	color: #00252e;
+	font-size: 2em;
+	padding: 1em 0 0;
+}
+
+.conteudomeio {
+	width: 44%;
+	border-radius: 1em;
+	transition: 1s;
+
+}
+
+.conteudomeio:hover {
+	box-shadow:0px 0px 20px #000000;
+}
+
+.botaomeio {
+	background: #FE51BF;
+	color: white;
+	border: none;
+	border-radius: 74px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    margin: 2em;
+    width: 55%;
+    padding: 25px;
+	transition: 00.6s;
+
+}
+
+.botaomeio:hover {
+	background: blueviolet
+
+}
+
+.botaomeio:active {
+	background: #00aafa
+
 }
 
 /* CSS do footer */
 
 footer {
-	background-color: darkcyan;
+	background-color: #00252e;
 }
 
 #logofooter {
-	height: 4%;
+	height: 6%;
+	padding: 11em 8em 3em;
+}
+
+.footerparte1 {
+	width: 40%;
+}
+
+.footerlocal, .footertelefone, .footeremail {
+	display: flex;
+	align-items: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+
+}
+
+.textofooter {
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#imgfooter {
+	padding: 1em 1em 1em 3em;
+}
+
+.listafootera {
+	line-height: 2em;
+	width: 8%;
+    position: relative;
+    left: 50%;
+    bottom: 10em;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+	
+}
+
+.listafooterb {
+	line-height: 2em;
+	width: 7%;
+    position: relative;
+    left: 60%;
+    bottom: 19em;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+	
+}
+
+.listafootera li {
+	line-height: 3em;
+}
+
+.listafooterb li {
+	line-height: 3em;
+}
+
+.redeslogo {
+	width: 13%;
+    position: relative;
+    left: 79%;
+    bottom: 22em;
+}
+
+
+#logoface, #logotwitter, #logoinsta {
+	height: 3em;
+}
+
+.copyright {
+	text-align: end;
+	padding: 3em;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
 }
 
 /* Css da para dispositivo mobile */
@@ -135,10 +322,14 @@ footer {
 
 	#mockups {
 		
-		width: auto;
-		height: 50%;
-		padding: 0 1em 0em;
+		width: 74%;
+		height: 26%;
+		padding: 3em;
 
+	}
+
+	.container-a {
+		display: block;
 	}
 
 	.trechoprincipal {
@@ -147,14 +338,15 @@ footer {
 		padding: 2em 2em;
 	}
 
-	.textoprincipal p{
+	#conteudoheader p {
 		text-align: center;
-		margin: 0 16%;
+		margin: 2em 16%;
 		width: 70%;
+		font-size: 1.2em;
 	}
 
 	.botao2 {
 		width: 35%;
-		margin: 1em 2em;
+		margin: 1em 3em;
 	}
 }
