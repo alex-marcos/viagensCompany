@@ -1,7 +1,7 @@
 /* Css Header */
 
 header {
-	background: url(./assets/6016317.jpg);
+	background: url(../assets/6016317.jpg);
 }
 
 .logo {
@@ -100,9 +100,6 @@ header {
 
 /* CSS do Main */
 
-main {
-
-}
 
 .meio {
 	margin: 3em;
@@ -162,7 +159,6 @@ main {
 	text-align: center;
 	background-color: #FFFFFF;
 	width: 74%;
-	padding: ;
 
 }
 
@@ -436,7 +432,7 @@ footer {
 }
 
 .redeslogo {
-	width: auto;
+	width: 44%;
     position: relative;
     left: 30%;
     bottom: -2em;
@@ -445,4 +441,5 @@ footer {
 .copyright {
 	text-align: center;
     padding: 3em;
+}
 }

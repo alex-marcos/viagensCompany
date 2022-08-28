@@ -1,18 +1,41 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks
+<h1 align="center">Viagens Company</h1>
 
 Esse é um projeto que busquei no Frontend Mentor de nível Junior em HTML e CSS, o projeto foi iniciado na date de 24/07/2022 para ser entregue em 29/07/2022. 
 Mudei a tematica do site de criação de companhias para uma companhia de viagens a fins diversos, algumas imagens são as mesmas fornecidas pelo site, entretanto a imagem 
 do header não estava inclusa no meu download e tive que improvisar com outra.
 
-## The challenge (Solicitado pelo proprio site Frontend Mentor.)
 
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
+Esse projeto tem como intuito o estudo das seguinte habilidades:
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+* - Responsividade com mobile
+* - Reprodução de design
+* - Produtividade e prazo de entrega
+* - Aprendizado de display flex
+* - Interatividade com os elementos ao passar o mouse em cima e ao clicar
 
-Your users should be able to: 
+<h2 align="center">Desafios propostos pelo site:</h2>
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+* - Seu desafio é criar a página com o design mais proximo o possível do design proposto.
+
+* Você pode usar qualquer ferramenta que achar necessario.
+
+## Os usuarios deverão ser capazes de:
+
+- Vizualizar o desplay do site de qualquer dispositivo independente do tamanho da tela.
+- Interagir ao passar o mouse por cima dos elementos.
+
+<h3 align="center">Imagens do resultado:</h3>
+
+<img align="center" alt="Design do site" height="200" width="500" src="./design/header.png">
+<img align="center" alt="Design do site" height="200" width="500" src="./design/main.png">
+<img align="center" alt="Design do site" height="200" width="500" src="./design/footer.png">
+<img align="center" alt="Design do site" height="200" width="500" src="./design/responsivo.png">
+<img align="center" alt="Design do site" height="200" width="500" src="./design/responsivo 2.png">
+
+
+<h4 align="center">Técnologias usadas:</h4>
+
+<img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 
