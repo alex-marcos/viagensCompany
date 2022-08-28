@@ -21,7 +21,7 @@ Esse projeto tem como intuito o estudo das seguinte habilidades:
 
 ## Os usuarios deverão ser capazes de:
 
-- Vizualizar o desplay do site de qualquer dispositivo independente do tamanho da tela.
+- Visualizar o desplay do site de qualquer dispositivo independente do tamanho da tela.
 - Interagir ao passar o mouse por cima dos elementos.
 
 <h3 align="center">Imagens do resultado:</h3>
@@ -29,8 +29,8 @@ Esse projeto tem como intuito o estudo das seguinte habilidades:
 <img align="center" alt="Design do site" height="200" width="500" src="./design/header.png">
 <img align="center" alt="Design do site" height="200" width="500" src="./design/main.png">
 <img align="center" alt="Design do site" height="200" width="500" src="./design/footer.png">
-<img align="center" alt="Design do site" height="200" width="350" src="./design/responsivo.png">
-<img align="center" alt="Design do site" height="200" width="350" src="./design/responsivo 2.png">
+<img align="center" alt="Design do site" height="200" width="200" src="./design/responsivo.png">
+<img align="center" alt="Design do site" height="200" width="200" src="./design/responsivo 2.png">
 
 
 <h4 align="center">Técnologias usadas:</h4>
