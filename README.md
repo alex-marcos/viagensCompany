@@ -1,6 +1,6 @@
 <h1 align="center">Viagens Company</h1>
 
-Esse é um projeto que busquei no Frontend Mentor de nível Junior em HTML e CSS, o projeto foi iniciado na date de 24/07/2022 para ser entregue em 29/07/2022. 
+Esse é um projeto que busquei no Frontend Mentor de nível Junior em HTML e CSS, o projeto foi iniciado na data de 24/07/2022 para ser entregue em 29/07/2022. 
 Mudei a tematica do site de criação de companhias para uma companhia de viagens a fins diversos, algumas imagens são as mesmas fornecidas pelo site, entretanto a imagem 
 do header não estava inclusa no meu download e tive que improvisar com outra.
 
@@ -29,6 +29,7 @@ Esse projeto tem como intuito o estudo das seguinte habilidades:
 <img align="center" alt="Design do site" height="200" width="500" src="./design/header.png">
 <img align="center" alt="Design do site" height="200" width="500" src="./design/main.png">
 <img align="center" alt="Design do site" height="200" width="500" src="./design/footer.png">
+# Design responsivo
 <img align="center" alt="Design do site" height="200" width="200" src="./design/responsivo.png">
 <img align="center" alt="Design do site" height="200" width="200" src="./design/responsivo 2.png">
 
@@ -41,5 +42,5 @@ Esse projeto tem como intuito o estudo das seguinte habilidades:
 </div>
 
 ## Link para visualizar o projeto: 
-https://laetuus.github.io/lanHouseWebsite/index.html
+https://laetuus.github.io/viagensCompany/index.html
 
