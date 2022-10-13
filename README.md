@@ -26,12 +26,12 @@ Esse projeto tem como intuito o estudo das seguinte habilidades:
 
 <h3 align="center">Imagens do resultado:</h3>
 
-<img align="center" alt="Design do site" height="200" width="500" src="./design/header.png">
-<img align="center" alt="Design do site" height="200" width="500" src="./design/main.png">
-<img align="center" alt="Design do site" height="200" width="500" src="./design/footer.png">
+<img align="center" alt="Design do site" height="350" width="500" src="./imagens/design/header.png">
+<img align="center" alt="Design do site" height="350" width="500" src="./imagens/design/main.png">
+<img align="center" alt="Design do site" height="350" width="500" src="./imagens/design/footer.png">
 # Design responsivo
-<img align="center" alt="Design do site" height="200" width="200" src="./design/responsivo.png">
-<img align="center" alt="Design do site" height="200" width="200" src="./design/responsivo 2.png">
+<img align="center" alt="Design do site" height="350" width="300" src="./imagens/design/responsivo.png">
+<img align="center" alt="Design do site" height="350" width="300" src="./imagens/design/responsivo 2.png">
 
 
 <h4 align="center">Técnologias usadas:</h4>
