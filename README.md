@@ -42,5 +42,5 @@ Esse projeto tem como intuito o estudo das seguinte habilidades:
 </div>
 
 ## Link para visualizar o projeto: 
-https://laetuus.github.io/viagensCompany/index.html
+https://alex-marcos.github.io/viagensCompany/index.html
 
